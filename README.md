@@ -32,7 +32,7 @@ We had grouped the months into 4 different seasons: **Winter, Spring, Summer and
 
 **Observable link** - [Question-1](https://observablehq.com/d/067a9d79b4a4ed07)
 
-![Alt text](project-3-848/vis1.png "Optional Title")
+![Alt text](vis1.png)
 
 In this visualization, we plotted a bar chart between Total number of crashes VS Seasons. No interaction.
 
@@ -46,8 +46,8 @@ The summer month had most traffic crashes followed by the fall, while spring had
 
 **Observable link** - [Question-2](https://observablehq.com/d/6879551f75834351)
 
-![Alt text](project-3-848/vis2.png "Optional Title")
-![Alt text](project-3-848/vis22.png "Optional Title")
+![Alt text](vis2.png)
+![Alt text](vis22.png)
 
 
 In this visualization, we plotted a stacked bar chart over different lighting conditions. When the user clicks on the stack, they would get a pie chart visualizations over the two years.
@@ -62,7 +62,7 @@ An interesting fact about this visualization is that most number of accidents to
 
 **Observable link** - [Question-3](https://observablehq.com/d/c43447debb8e0d62)
 
-![Alt text](project-3-848/vis3.png "Optional Title")
+![Alt text](vis3.png)
 
 In this visualization, we plotted a line chart over different weather conditions. We have included a dropdown for the user to select the weather and we could see the trend of its impact over the seasons.
 

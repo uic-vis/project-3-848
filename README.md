@@ -70,6 +70,38 @@ In this visualization, we plotted a line chart over different weather conditions
 
 Most of the crashes took place when the weather was clear. On the other hand, Rain had almost equal impact over all the seasons.
 
+## **Data Question-4:** 
+
+**How did the crashes changed over months and hour of the day?**
+
+**Observable link** - [Question-4](https://observablehq.com/d/b03b383d323e15e3)
+
+![Alt text](vis4.png)
+![Alt text](vis44.png)
+
+
+In this visualization, we plotted a bar graph over different months and when the user clicks on any of the bars, the respective month's crashes per hour of the day line graph shows up. 
+
+### **Inference:**
+
+July and August have more number of crashes, and irrespective of the month, most of the crashes took place in the evenings (Around 14th - 18th hour)
+
+## **Data Question-5:** 
+
+**Which Zipcode had more number of crashes?**
+
+**Observable link** - [Question-5](https://observablehq.com/d/0b55a7c449773e94)
+
+![Alt text](vis5.png)
+
+
+In this visualization, we plotted a choropleth chicago map based on total number of crashes(people) at each zipcode.
+
+### **Inference:**
+
+Most number of crashes took place at 60629 with a total of 10406 crashes in 2 years.
+
+
 ## Conclusion 
 
 As per our analysis, Lighting and Weather conditions haven't had major impact on the traffic crashes. The trends were almost similar over the seasons and the two years of the data. Perhaps, the major take would be to be careful during the months of summer/fall as most crashes took place during these months. 
